@@ -1,0 +1,8 @@
+com/example/demo/Controller/LoginController.class
+com/example/demo/DAO/UserDAO.class
+com/example/demo/UsersBookApplication.class
+com/example/demo/config/SwaggerConfig.class
+com/example/demo/model/User.class
+com/example/demo/service/UserService.class
+com/example/demo/security/SecurityConfig.class
+com/example/demo/Controller/UserController.class
